@@ -6,7 +6,7 @@ public class ReverseVowels {
 
 	public String reverseVowels(String str) {
       //Write code here
-		return null;
+		return "";
 	}
 
 	public static void main(String[] args) {
