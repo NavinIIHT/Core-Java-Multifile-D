@@ -17,7 +17,7 @@ public class TrimWhiteSpaces {
 
 	public String trimWhiteSpaces(String message) {
 		// Write Code Here
-		return null;
+		return "";
 	}
 
 }
